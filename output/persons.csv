@@ -1,0 +1,14 @@
+Image,Partition,Activity,Number of People,Activity Correct,Count Correct,Detection,Accuracy,Pass/Fail
+running 1.jpg,people,"The person is in mid-air, appearing to be in the middle of a running or jumping motion. They are wearing a white sleeveless top, black leggings, and black athletic shoes. The background is plain white, which highlights the person's dynamic pose.",1.0,Correct,Correct,Yes,100.0,Pass
+running 2.jpg,people,,,Incorrect,Incorrect,No,0.0,Fail
+running 3.jpg,people,,,Incorrect,Incorrect,No,0.0,Fail
+sitting 1.jpg,people,"The person is sitting on a wooden chair with one leg crossed over the other and hands resting on their lap. They are wearing a light blue button-up shirt with rolled-up sleeves, dark blue jeans, and brown shoes.",1.0,Correct,Correct,Yes,100.0,Pass
+sitting 2.jpg,people,"The person on the left is sitting with both hands resting on their lap, wearing a light blue shirt, grey blazer, beige pants, and brown shoes. The person on the right, dressed in a black suit, white shirt, and black tie, is gesturing with one hand. The image captures a simple, professional setting against a plain white background. If you have more images to analyze or need additional information, feel free to share them!",2.0,Correct,Correct,Yes,100.0,Pass
+sitting 3.jpg,people,,,Incorrect,Incorrect,No,0.0,Fail
+sporting 1.jpg,people,"The player is in action on a football field, holding a football and appears to be running, possibly evading a tackle or making a play.",1.0,Correct,Correct,Yes,100.0,Pass
+sporting 2.jpg,people,"One player, wearing a red and white uniform, appears to be in the process of being tackled by another player in a red and gray uniform. The player in the red and gray uniform is grabbing the other player's jersey near the shoulder area.",2.0,Correct,Correct,Yes,100.0,Pass
+sporting 3.jpg,people,"One player from the Houston Rockets, wearing a white jersey, is holding the basketball while being closely guarded by two players from the Golden State Warriors, who are wearing blue jerseys. The scene appears intense, with the Rockets player trying to protect the ball from the defenders.",3.0,Correct,Correct,Yes,100.0,Pass
+standing 1.jpg,people,The person is standing with their hands in their pockets.,1.0,Correct,Correct,Yes,100.0,Pass
+standing 2.jpg,people,"The person on the left is standing with arms crossed, wearing a plaid shirt, jeans, and brown boots. The person on the right is standing with one arm resting on the shoulder of the person on the left, the other hand in a pocket, wearing a grey t-shirt, dark jeans, and flip-flops.",2.0,Correct,Correct,Yes,100.0,Pass
+standing 3.jpg,people,"The three individuals are standing together with their hands in their pockets, suggesting a casual or professional group photo.",3.0,Correct,Correct,Yes,100.0,Pass
+Summary,,,,9/12 (75.00%),9/12 (75.00%),,,Pass: 9/12 (75.00%)

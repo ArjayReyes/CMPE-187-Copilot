@@ -1,0 +1,14 @@
+Image,Partition,House Type,Weather Condition,Type Correct,Weather Correct,Detection,Accuracy,Pass/Fail
+Colonial Night.jpg,houses,residential,night,Correct,Correct,Yes,100.0,Pass
+Colonial Raining.jpg,houses,,night,Incorrect,Correct,No,50.0,Fail
+Colonial Snowy.jpg,houses,,,Incorrect,Incorrect,No,0.0,Fail
+Colonial Sunny.jpg,houses,,,Incorrect,Incorrect,No,0.0,Fail
+Farmhouse Night.jpg,houses,,night,Incorrect,Correct,No,50.0,Fail
+Farmhouse Raining.jpg,houses,,night,Incorrect,Correct,No,50.0,Fail
+Farmhouse Snowy.jpg,houses,,,Incorrect,Incorrect,No,0.0,Fail
+Farmhouse Sunny.jpg,houses,,,Incorrect,Incorrect,No,0.0,Fail
+Modern Night.jpg,houses,residential,night,Correct,Correct,Yes,100.0,Pass
+Modern Raining.jpg,houses,modern,,Correct,Incorrect,No,50.0,Fail
+Modern Snowy.jpg,houses,modern,,Correct,Incorrect,No,50.0,Fail
+Modern Sunny.jpg,houses,modern,sunny,Correct,Correct,Yes,100.0,Pass
+Summary,,,,5/12 (41.67%),6/12 (50.00%),,,Pass: 3/12 (25.00%)
