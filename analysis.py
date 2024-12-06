@@ -153,8 +153,8 @@ def extract_car_details(analysis):
     return car_type, car_side
 
 def extract_house_details(analysis):
-    house_keywords = ['farmhouse', 'residential', 'modern', 'colonial']
-    weather_keywords = ['sunny', 'raining', 'snowing', 'night']
+    house_keywords = ['farmhouse', 'residential', 'modern', 'colonial', 'cabin', 'barn', 'two-story']
+    weather_keywords = ['sunny', 'raining', 'snowing', 'snowy', 'snow', 'night', 'daytime']
 
     house_type = next((word for word in house_keywords if word in analysis.lower()), None)
     weather_condition = next((word for word in weather_keywords if word in analysis.lower()), None)
